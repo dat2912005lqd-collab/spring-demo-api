@@ -8,3 +8,4 @@ public record CalculatorRequest(
     String nameCustomer,
     int number
 ) {}
+
