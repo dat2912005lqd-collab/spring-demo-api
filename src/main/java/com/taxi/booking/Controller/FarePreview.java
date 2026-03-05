@@ -1,4 +1,4 @@
-package com.taxi.booking.Controller;
+package com.taxi.booking.controller;
 
 public class FarePreview {
     private String from;

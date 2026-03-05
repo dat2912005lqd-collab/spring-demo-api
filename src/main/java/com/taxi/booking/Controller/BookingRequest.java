@@ -1,3 +1,3 @@
-package com.taxi.booking.Controller;
+package com.taxi.booking.controller;
 public class BookingRequest {
 }
